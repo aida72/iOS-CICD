@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "B9F88C1E23A6926600F6EF1D"
-               BuildableName = "iOS-CI.app"
-               BlueprintName = "iOS-CI"
-               ReferencedContainer = "container:iOS-CI.xcodeproj">
+               BuildableName = "iOS-CICD.app"
+               BlueprintName = "iOS-CICD"
+               ReferencedContainer = "container:iOS-CICD.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "B9F88C3423A6926700F6EF1D"
-               BuildableName = "iOS-CITests.xctest"
-               BlueprintName = "iOS-CITests"
-               ReferencedContainer = "container:iOS-CI.xcodeproj">
+               BuildableName = "iOS-CICDTests.xctest"
+               BlueprintName = "iOS-CICDTests"
+               ReferencedContainer = "container:iOS-CICD.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "B9F88C3F23A6926700F6EF1D"
-               BuildableName = "iOS-CIUITests.xctest"
-               BlueprintName = "iOS-CIUITests"
-               ReferencedContainer = "container:iOS-CI.xcodeproj">
+               BuildableName = "iOS-CICDUITests.xctest"
+               BlueprintName = "iOS-CICDUITests"
+               ReferencedContainer = "container:iOS-CICD.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -65,9 +65,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B9F88C1E23A6926600F6EF1D"
-            BuildableName = "iOS-CI.app"
-            BlueprintName = "iOS-CI"
-            ReferencedContainer = "container:iOS-CI.xcodeproj">
+            BuildableName = "iOS-CICD.app"
+            BlueprintName = "iOS-CICD"
+            ReferencedContainer = "container:iOS-CICD.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -82,9 +82,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B9F88C1E23A6926600F6EF1D"
-            BuildableName = "iOS-CI.app"
-            BlueprintName = "iOS-CI"
-            ReferencedContainer = "container:iOS-CI.xcodeproj">
+            BuildableName = "iOS-CICD.app"
+            BlueprintName = "iOS-CICD"
+            ReferencedContainer = "container:iOS-CICD.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
